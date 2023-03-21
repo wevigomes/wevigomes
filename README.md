@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/wevigomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wevigomes&show_icons=true&theme=dark&includes_all_commits=true&count_private=true&hide_border=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevigomes&layout=compact&langs_count_public=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wevigomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevigomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wevigomes&bg_color=050505&color=d8d5d8&line=deb887&point=e2dfdf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
